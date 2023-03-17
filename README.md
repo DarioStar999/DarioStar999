@@ -9,3 +9,5 @@ Hi im Dario👋
 <a href="https://discord.gg/Zvanvd7v" target="_self"> 
    <img src="discord.png" alt="Discord" border="0"/> 
 </a>
+
+[![My Skills](https://skillicons.dev/icons?i=html,py,css,lua&theme=dark)](https://skillicons.dev)
