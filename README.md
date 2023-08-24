@@ -1,6 +1,6 @@
 Hi im Dario👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioStar999&theme=Gradient)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioStar999&theme=midnight_purple)
 
 <div class "logo"
  <div style="text-align: ">
