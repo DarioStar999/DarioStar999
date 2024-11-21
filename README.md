@@ -1,4 +1,4 @@
-Hi im Dario👋
+Hi im Mizuara👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioStar999&theme=midnight-purple)
 
