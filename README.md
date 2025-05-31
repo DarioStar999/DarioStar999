@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://discord.gg/SJrUuDe2S2" target="_blank">
+<a href="https://discord.gg/3DraGezmz2" target="_blank">
    <img src="https://img.shields.io/badge/Join%20my%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Invite"/>
 </a>
 
