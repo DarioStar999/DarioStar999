@@ -1,7 +1,7 @@
 # 🌸 Hi, I'm Mizuara! 👋
 
 ✨ Welcome to my GitHub!  
-🎓 I'm a college student passionate about tech, coding, and creative digital projects.  
+🎓 I'm a high school student passionate about tech, coding, and creative digital projects.  
 🎮 I love games, pixel art, and writing little scripts to automate things.  
 
 ---
