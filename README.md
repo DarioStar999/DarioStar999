@@ -14,7 +14,7 @@
 
 ## 🧠 Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,lua,js,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,lua,vscode&theme=dark)](https://skillicons.dev)
 
 ---
 
